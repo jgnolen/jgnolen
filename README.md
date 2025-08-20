@@ -66,17 +66,15 @@ GFACT, GSEC, GCIH
 ## Projects
 | Project List                                  | Project Reference Name                        |
 |-----------------------------------------------|-----------------------------------------------|
-| Security Operations Center (SOC) Home Lab     | SOC Home Lab                 |
-| Open-Source Intelligence (OSINT) Home Lab     | OSINT Home Lab               |
+| <a href="https://github.com/jgnolen/Security-Operations-Center-Home-Lab">Security Operations Center Home Lab</a>     | SOC Home Lab                 |
+| <a href="https://github.com/jgnolen/Open-Source-Intelligence-Home-Lab">Open-Source Intelligence Home Lab</a>     | OSINT Home Lab               |
 | Vulnerable Machine Home Lab                   | Vuln Home Lab                |
-| Digital Forensics & Incident Response Lab     | DFIR Home Lab                |
+| <a href="https://github.com/jgnolen/Digital-Forensics-Incident-Response-Lab">Digital Forensics Incident Response Lab</a>     | DFIR Home Lab                |
 | Active Directory Home Lab                     | AD Home Lab                  |
-| Software Defined Radio (SDR) Home Lab         | SDR Home Lab                 |
-| Capture the Flag (CTF) Platforms              | CTF Labs                     |
+| Software Defined Radio Home Lab         | SDR Home Lab                 |
+| <a href="https://github.com/jgnolen/Capture-the-Flag-Platforms">Capture the Flag Platforms</a>              | CTF Labs                     |
 | <a href="https://github.com/jgnolen/Simulated-Security-Assessments">Simulated Security Assessment</a>                 | GTC Sim Pentest              |
 | <a href="https://github.com/jgnolen/Mapping-Realworld-Attacks-with-MITRE">Mapping Realworld Attacks with MITRE ATT&CK</a>   | GTC Avaddon                  |
-
-
 
 
 
