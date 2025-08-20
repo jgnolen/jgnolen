@@ -1,7 +1,7 @@
 # Hello, I'm James
 <a href="https://linkedin.com/in/jgnolen"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/c0ff33st41n.png" alt="Your Image Badge" />
+<a href="https://tryhackme.com/p/c0ff33st41n"><img src="https://tryhackme-badges.s3.amazonaws.com/c0ff33st41n.png" alt="Your Image Badge" />
 
 GCIH | GSEC | GFACT | Life-long Learner | Former Law Enforcement | Veteran
 
