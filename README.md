@@ -7,7 +7,7 @@ GCIH | GSEC | GFACT | Life-long Learner | Former Law Enforcement | Veteran
 
 ## Objective
 
-As a former law enforcement professional with 12 years of public service plus 6 years of military experience, my objective is to continue public service and transition into information security with 3 GIAC certifications and an AAS Degree in Computer Technology.
+As a former law enforcement professional with 12 years of public service and 6 years of military experience, my objective is to continue public service and transition into information security with 3 GIAC certifications and an AAS Degree in Computer Technology.
 
 ## Technical Skills
 
