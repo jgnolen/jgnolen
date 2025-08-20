@@ -13,17 +13,17 @@ As a former law enforcement professional with 12 years of public service and 6 y
 
 ## Technical Skills
 
-| Skill                                         | Associated Project           |
-|-----------------------------------------------|------------------------------|
-| Security Information & Event Management       | SOC Home Lab, CTF Labs       |
-| Network Security                              | SOC Home Lab, CTF Labs       |
-| OS Troubleshooting & Management               | All Home Labs, CTF Labs      |
-| Threat Intelligence                           | OSINT Home Lab, GTC Avaddon  |
-| Incident Response                             | SOC Home Lab, CTF Labs       |
-| Case Management                               | SOC Home Lab                 |
-| Vulnerability Management                      | SOC Home Lab                 |
-| Scripting and Automation                      | SOC Home Lab                 |
-| Virtual Machine Troubleshooting & Management  | All Home Labs, CTF Labs      |
+| Skill                                         | Associated Projects                           |
+|-----------------------------------------------|-----------------------------------------------|
+| Security Information & Event Management       | SOC Home Lab, CTF Labs                        |
+| Network Security                              | SOC Home Lab, CTF Labs                        |
+| OS Troubleshooting & Management               | All Home Labs, CTF Labs                       |
+| Threat Intelligence                           | OSINT Home Lab, GTC Avaddon, GTC Sim Pentest  |
+| Incident Response                             | SOC Home Lab, CTF Labs                        |
+| Case Management                               | SOC Home Lab                                  |
+| Vulnerability Management                      | SOC Home Lab, GTC Sim Pentest                 |
+| Scripting and Automation                      | SOC Home Lab                                  |
+| Virtual Machine Troubleshooting & Management  | All Home Labs, CTF Labs                       |
 
 ## Tools
 
@@ -48,24 +48,24 @@ Linux (Ubuntu, Kali and Kali Purple, SIFT Workstation, Slingshot, RedHat), Windo
 NIST SP 800, NIST CSF, MITRE ATT&CK, CIS Controls, TAXII, FedRAMP, FISMA, HIPAA, SOC2, PCI DSS, ISO 27000 Series, STIX, TCP/IP, DNS
 
 ## Functional Skills
-| Skill                                         | Associated Project           |
-|-----------------------------------------------|------------------------------|
-| Attention to Detail                           | All Home Labs, Work History  |
-| Adaptability                                  | All Home Labs, Work History  |
-| Teamwork                                      | Work History                 |
-| Ownership                                     | All Home Labs, Work History  | 
-| Customer Service                              | All Home Labs, Work History  |
-| Critical Thinking                             | All Home Labs, Work History  |
-| Technical Report Writing                      | GTC Sim Pentest, Work History|
-| Oral & Written Communication                  | GTC Sim Pentest, Work History|
-| Finding Root Cause                            | All Home Labs, Work History  |
+| Skill                                         | Associated Projects                           |
+|-----------------------------------------------|-----------------------------------------------|
+| Attention to Detail                           | All Home Labs, Work History                   |
+| Adaptability                                  | All Home Labs, Work History                   |
+| Teamwork                                      | Work History                                  |
+| Ownership                                     | All Home Labs, Work History                   | 
+| Customer Service                              | All Home Labs, Work History                   |
+| Critical Thinking                             | All Home Labs, Work History                   |
+| Technical Report Writing                      | GTC Sim Pentest, Work History                 |
+| Oral & Written Communication                  | GTC Sim Pentest, Work History                 |
+| Finding Root Cause                            | All Home Labs, Work History                   |
 
 ## Certifications
 GFACT, GSEC, GCIH
 
 ## Projects
-| Project List                                  | Project Reference Name       |
-|-----------------------------------------------|------------------------------|
+| Project List                                  | Project Reference Name                        |
+|-----------------------------------------------|-----------------------------------------------|
 | Security Operations Center (SOC) Home Lab     | SOC Home Lab                 |
 | Open-Source Intelligence (OSINT) Home Lab     | OSINT Home Lab               |
 | Vulnerable Machine Home Lab                   | Vuln Home Lab                |
