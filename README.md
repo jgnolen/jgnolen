@@ -73,7 +73,12 @@ GFACT, GSEC, GCIH
 | Active Directory Home Lab                     | AD Home Lab                  |
 | Software Defined Radio (SDR) Home Lab         | SDR Home Lab                 |
 | Capture the Flag (CTF) Platforms              | CTF Labs                     |
-| Simulated Security Assessment                 | GTC Sim Pentest              |
+| <a href="https://github.com/jgnolen/Simulated-Security-Assessments">Simulated Security Assessment</a>                 | GTC Sim Pentest              |
 | <a href="https://github.com/jgnolen/Mapping-Realworld-Attacks-with-MITRE">Mapping Realworld Attacks with MITRE ATT&CK</a>   | GTC Avaddon                  |
+
+
+
+
+
 
 
