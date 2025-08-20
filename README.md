@@ -3,7 +3,7 @@
 
 <a href="https://tryhackme.com/p/c0ff33st41n"><img src="https://tryhackme-badges.s3.amazonaws.com/c0ff33st41n.png" alt="Your Image Badge" />
 
-MetaCTF - https://tficomic.io/
+MetaCTF Scoreboard Link - https://tficomic.io/
 
 GCIH | GSEC | GFACT | Life-long Learner | Former Law Enforcement | Veteran
 
