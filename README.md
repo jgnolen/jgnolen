@@ -74,5 +74,5 @@ GFACT, GSEC, GCIH
 | Software Defined Radio (SDR) Home Lab         | SDR Home Lab                 |
 | Capture the Flag (CTF) Platforms              | CTF Labs                     |
 | Simulated Security Assessment                 | GTC Sim Pentest              |
-| Mapping Realworld Attack with MITRE ATT&CK    | GTC Avaddon                  |
+| Mapping Realworld Attacks with MITRE ATT&CK    | GTC Avaddon                  |
 
