@@ -15,15 +15,15 @@ As a former law enforcement professional with 12 years of public service and 6 y
 
 | Skill                                         | Associated Project           |
 |-----------------------------------------------|------------------------------|
-| Security Information & Event Management       | SOC Home Lab                 |
-| Network Security                              | SOC Home Lab                 |
-| OS Troubleshooting & Management               | All Home Labs                |
+| Security Information & Event Management       | SOC Home Lab, CTF Labs       |
+| Network Security                              | SOC Home Lab, CTF Labs       |
+| OS Troubleshooting & Management               | All Home Labs, CTF Labs      |
 | Threat Intelligence                           | OSINT Home Lab, GTC Avaddon  |
-| Incident Response                             | SOC Home Lab                 |
+| Incident Response                             | SOC Home Lab, CTF Labs       |
 | Case Management                               | SOC Home Lab                 |
 | Vulnerability Management                      | SOC Home Lab                 |
 | Scripting and Automation                      | SOC Home Lab                 |
-| Virtual Machine Troubleshooting & Management  | All Home Labs                |
+| Virtual Machine Troubleshooting & Management  | All Home Labs, CTF Labs      |
 
 ## Tools
 
@@ -54,7 +54,7 @@ NIST SP 800, NIST CSF, MITRE ATT&CK, CIS Controls, TAXII, FedRAMP, FISMA, HIPAA,
 | Adaptability                                  | All Home Labs, Work History  |
 | Teamwork                                      | Work History                 |
 | Ownership                                     | All Home Labs, Work History  | 
-| Customer Service                              | All Home Labs                |
+| Customer Service                              | All Home Labs, Work History  |
 | Critical Thinking                             | All Home Labs, Work History  |
 | Technical Report Writing                      | GTC Sim Pentest, Work History|
 | Oral & Written Communication                  | GTC Sim Pentest, Work History|
