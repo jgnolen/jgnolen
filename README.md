@@ -45,7 +45,7 @@ Nessus, Atomic Red Team, Scapy
 Linux (Ubuntu, Kali and Kali Purple, SIFT Workstation, Slingshot, RedHat), Windows, Windows Server, M365, Azure, AWS, VMware, WSL
 
 ### Frameworks & Protocols
-NIST SP 800, NIST CSF, MITRE ATT&CK, CIS Controls, TAXII, FedRAMP, FISMA, HIPAA, SOC2, PCI DSS, ISO 27000 Series, STIX, TCP/IP, DNS
+NIST SP 800, NIST CSF, MITRE ATT&CK, CIS Controls, TCP/IP, DNS
 
 ## Functional Skills
 | Skill                                         | Associated Projects                           |
