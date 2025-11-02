@@ -70,7 +70,7 @@ GFACT, GSEC, GCIH
 | <a href="https://github.com/jgnolen/Open-Source-Intelligence-Home-Lab">Open-Source Intelligence Home Lab</a>     | OSINT Home Lab               |
 | Vulnerable Machine Home Lab                   | Vuln Home Lab                |
 | <a href="https://github.com/jgnolen/Digital-Forensics-Incident-Response-Lab">Digital Forensics Incident Response Lab</a>     | DFIR Home Lab                |
-| Active Directory Home Lab                     | AD Home Lab                  |
+| <a href="https://github.com/jgnolen/Active-Directory-Home-Lab">Active Directory Home Lab                     | AD Home Lab                  |
 | Software Defined Radio Home Lab         | SDR Home Lab                 |
 | <a href="https://github.com/jgnolen/Capture-the-Flag-Platforms">Capture the Flag Platforms</a>              | CTF Labs                     |
 | <a href="https://github.com/jgnolen/Simulated-Security-Assessments">Simulated Security Assessment</a>                 | GTC Sim Pentest              |
